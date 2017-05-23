@@ -1,0 +1,12 @@
+123123 3 robt
+989898 1 phys
+199911 1 biol
+374872 3 math
+443892 2 math
+900123 4 scsi
+517840 1 robt
+100001 2 chem
+780556 4 robt
+999900 2 econ
+676558 1 undc
+776548 2 csci
